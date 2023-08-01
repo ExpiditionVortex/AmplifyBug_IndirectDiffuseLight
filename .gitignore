@@ -6,3 +6,7 @@ DELETEME/Logs/
 DELETEME/obj/
 
 DELETEME/UserSettings/
+
+DELETEME/Temp/
+
+*.csproj
